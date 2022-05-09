@@ -1,16 +1,6 @@
 # business_card
 
-A new Flutter project.
+This project is a simple buiness card built with Flutter for my Resume.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![business_card_screenshot](https://user-images.githubusercontent.com/36672872/167487090-5c9466e6-cf86-49e5-ad76-82d2b728cbc3.png)
